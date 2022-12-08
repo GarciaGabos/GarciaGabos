@@ -20,7 +20,7 @@ I love challenges and always seek to delve deeper into the areas in which I work
 
 [![Gabriel Garcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarciaGabos&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GarciaGabos&langs_count=8&count_private=true&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GarciaGabos&langs_count=10&count_private=true&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contacts:
 <div align="center">
