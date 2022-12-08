@@ -13,7 +13,7 @@ I love challenges and always seek to delve deeper into the areas in which I work
 
 | Languages  | Frameworks | Technologies | Tools | 
 |---|---|---|---|
-|<div id='lojc' align="center"><span>JavaScript🔸SQL</span></div>|<div id='lojc' align="center"><span>React🔸Jest</span></div>|<div id='lojc' align="center"><span>Git🔸NodeJS🔸React Testing Library🔸API🔸HTML🔸CSS🔸React Router🔸Redux🔸Context API🔸React Hooks🔸Docker🔸Docker Compose🔸Local Storage🔸Mocks🔸Bootstrap</span></div>|<div id='lojc' align="center"><span>Linux🔸Terminal🔸Bash🔸GitHub🔸Visual Studio Code🔸MySQL Workbench</span></div>|
+|<div id='lojc' align="center"><span>JavaScript🔸SQL</span></div>|<div id='lojc' align="center"><span>React🔸Jest🔸Express</span></div>|<div id='lojc' align="center"><span>Git🔸NodeJS🔸React Testing Library🔸API🔸HTML🔸CSS🔸React Router🔸Redux🔸Context API🔸React Hooks🔸Docker🔸Docker Compose🔸Local Storage🔸Mocks🔸Bootstrap</span></div>|<div id='lojc' align="center"><span>Linux🔸Terminal🔸Bash🔸GitHub🔸Visual Studio Code🔸MySQL Workbench</span></div>|
  
 
 
