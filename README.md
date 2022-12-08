@@ -9,6 +9,7 @@ I love challenges and always seek to delve deeper into the areas in which I work
   <p >🌱  Master in International Relations from San Tiago Dantas Institute (PUC-SP, UNICAMP, UNESP).</h4>
 
   
+  ## Skills
 <div id='lojc' align="center">
 
 | Languages  | Frameworks | Technologies | Tools | 
